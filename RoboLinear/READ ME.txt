@@ -1,0 +1,2 @@
+O algoritmo utiliza a função count para contar a quantidade de T's e F's na entrada salva na variavel command,
+Após isso é realizada a diferença entre as duas quantidades resultando na variação de posição do robô.
